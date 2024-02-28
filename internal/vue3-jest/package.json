@@ -5,11 +5,11 @@
   "keywords": [
     "jest"
   ],
-  "homepage": "https://github.com/Forsakringskassan/forsakringskassan/jest-config",
-  "bugs": "https://github.com/Forsakringskassan/forsakringskassan/jest-config/issues",
+  "homepage": "https://github.com/Forsakringskassan/jest-config",
+  "bugs": "https://github.com/Forsakringskassan/jest-config/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Forsakringskassan/forsakringskassan/jest-config.git",
+    "url": "https://github.com/Forsakringskassan/jest-config.git",
     "directory": "internal/vue3-jest"
   },
   "license": "MIT",
