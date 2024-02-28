@@ -1,8 +1,13 @@
 name: Release
+
 on:
     workflow_dispatch:
     schedule:
         - cron: "0 0 * * 5"
+
+env:
+  HUSKY: 0
+
 jobs:
     release:
         name: Release
