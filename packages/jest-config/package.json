@@ -1,6 +1,6 @@
 {
   "name": "@forsakringskassan/jest-config",
-  "version": "29.3.4",
+  "version": "27.0.2",
   "description": "Shareable jest configuration for npm packages",
   "keywords": [
     "jest"
@@ -30,10 +30,10 @@
     "preset": "."
   },
   "dependencies": {
-    "jest": "29.7.0",
+    "jest": "27.5.1",
     "jest-junit": "16.0.0",
     "jest-watch-typeahead": "2.2.2",
-    "ts-jest": "29.1.2"
+    "ts-jest": "27.1.5"
   },
   "engines": {
     "node": ">= 16.10",
