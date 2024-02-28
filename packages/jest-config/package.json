@@ -1,6 +1,6 @@
 {
   "name": "@forsakringskassan/jest-config",
-  "version": "27.0.2",
+  "version": "27.1.0",
   "description": "Shareable jest configuration for npm packages",
   "keywords": [
     "jest"

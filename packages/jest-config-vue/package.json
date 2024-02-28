@@ -1,6 +1,6 @@
 {
   "name": "@forsakringskassan/jest-config-vue",
-  "version": "27.0.2",
+  "version": "27.1.0",
   "description": "Shareable jest configuration for vue applications",
   "keywords": [
     "jest"
