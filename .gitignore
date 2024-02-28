@@ -1,0 +1,6 @@
+*.checkstyle.xml
+*.tgz
+.jest-cache/
+coverage/
+node_modules/
+test-results/

@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "local>forsakringskassan/renovate-config:lib",
+        ":pinAllExceptPeerDependencies"
+    ]
+}

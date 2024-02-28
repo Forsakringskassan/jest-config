@@ -1,0 +1,36 @@
+{
+  "name": "internal-vue3-jest",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "jest"
+  ],
+  "homepage": "https://github.com/Forsakringskassan/forsakringskassan/jest-config",
+  "bugs": "https://github.com/Forsakringskassan/forsakringskassan/jest-config/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Forsakringskassan/forsakringskassan/jest-config.git",
+    "directory": "internal/vue3-jest"
+  },
+  "license": "MIT",
+  "author": "Försäkringskassan",
+  "exports": {
+    ".": {
+      "require": "./index.js"
+    },
+    "./test-utils": {
+      "types": "./test-utils.d.ts",
+      "require": "./test-utils.js"
+    }
+  },
+  "dependencies": {
+    "@vue/test-utils": "2.4.4",
+    "@vue/vue3-jest": "29.2.6"
+  },
+  "devDependencies": {
+    "vue": "3.4.5"
+  },
+  "engines": {
+    "node": ">= 16"
+  }
+}

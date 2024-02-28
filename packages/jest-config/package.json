@@ -1,0 +1,42 @@
+{
+  "name": "@forsakringskassan/jest-config",
+  "version": "29.3.4",
+  "description": "Shareable jest configuration for npm packages",
+  "keywords": [
+    "jest"
+  ],
+  "homepage": "https://github.com/Forsakringskassan/forsakringskassan/jest-config",
+  "bugs": "https://github.com/Forsakringskassan/forsakringskassan/jest-config/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Forsakringskassan/forsakringskassan/jest-config.git",
+    "directory": "packages/jest-config"
+  },
+  "license": "MIT",
+  "author": "Försäkringskassan",
+  "main": "jest-preset.js",
+  "bin": {
+    "jest": "jest.js"
+  },
+  "files": [
+    "jest.js",
+    "jest-preset.js"
+  ],
+  "scripts": {
+    "pretest": "node jest --version",
+    "test": "node jest --passWithNoTests"
+  },
+  "jest": {
+    "preset": "."
+  },
+  "dependencies": {
+    "jest": "29.7.0",
+    "jest-junit": "16.0.0",
+    "jest-watch-typeahead": "2.2.2",
+    "ts-jest": "29.1.2"
+  },
+  "engines": {
+    "node": ">= 16",
+    "npm": ">= 7"
+  }
+}
