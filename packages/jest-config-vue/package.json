@@ -45,7 +45,7 @@
     "ts-jest": "29.1.2"
   },
   "devDependencies": {
-    "esbuild": "0.20.1",
+    "esbuild": "0.20.2",
     "internal-vue2-jest": "*",
     "internal-vue3-jest": "*",
     "vue-template-compiler": "2.7.16",
