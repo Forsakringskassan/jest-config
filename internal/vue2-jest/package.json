@@ -28,7 +28,7 @@
     "@vue/vue2-jest": "29.2.6"
   },
   "devDependencies": {
-    "vue": "2.7.16"
+    "vue": "3.4.21"
   },
   "engines": {
     "node": ">= 16"
