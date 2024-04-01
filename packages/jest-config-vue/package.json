@@ -49,7 +49,7 @@
     "internal-vue2-jest": "*",
     "internal-vue3-jest": "*",
     "vue-template-compiler": "2.7.16",
-    "vue2": "npm:vue@2.7.16",
+    "vue2": "npm:vue@3.4.21",
     "vue3": "npm:vue@3.4.21"
   },
   "peerDependencies": {
