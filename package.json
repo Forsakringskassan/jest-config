@@ -38,7 +38,7 @@
     "extends": "@forsakringskassan/semantic-release-monorepo-config"
   },
   "devDependencies": {
-    "@forsakringskassan/eslint-config": "10.3.3",
+    "@forsakringskassan/eslint-config": "10.3.5",
     "@forsakringskassan/eslint-config-cli": "10.3.0",
     "@forsakringskassan/eslint-config-jest": "10.3.0",
     "@forsakringskassan/eslint-config-typescript": "10.3.0",
