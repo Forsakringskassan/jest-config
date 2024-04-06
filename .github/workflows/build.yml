@@ -24,3 +24,9 @@ jobs:
             - name: Build
               run: |
                   npm run --if-present build
+                  for pkg in packages/*/; do (
+                      set -e
+                      echo $pkg
+                      cd $pkg
+                      npm pack && npm exec npm-pkg-lint
+                  ); done
