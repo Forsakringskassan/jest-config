@@ -37,6 +37,9 @@
   "release": {
     "extends": "@forsakringskassan/semantic-release-monorepo-config"
   },
+  "dependencies": {
+    "prettier-2": "npm:prettier@2.8.8"
+  },
   "devDependencies": {
     "@forsakringskassan/commitlint-config": "1.2.1",
     "@forsakringskassan/eslint-config": "10.3.5",

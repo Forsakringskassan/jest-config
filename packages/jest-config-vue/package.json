@@ -48,6 +48,7 @@
     "esbuild": "0.20.2",
     "internal-vue2-jest": "*",
     "internal-vue3-jest": "*",
+    "prettier-2": "npm:prettier@2.8.8",
     "vue-template-compiler": "2.7.16",
     "vue2": "npm:vue@2.7.16",
     "vue3": "npm:vue@3.4.21"

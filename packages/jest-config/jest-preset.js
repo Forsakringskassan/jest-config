@@ -29,6 +29,9 @@ module.exports = {
         "lcov",
     ],
 
+    /* until jest 30 we must force prettier 2 or formatting snapshots wont work */
+    prettierPath: require.resolve("prettier-2"),
+
     /* ignore files in the temp folder, sometimes used to put typescript
      * declarations before dts rollup */
     modulePathIgnorePatterns: ["<rootDir>/temp"],

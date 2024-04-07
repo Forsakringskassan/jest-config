@@ -8,6 +8,9 @@ module.exports = {
      * runs the same tests (i.e. multiple jenkins jobs on the same node). */
     cacheDirectory: "<rootDir>/.jest-cache",
 
+    /* until jest 30 we must force prettier 2 or formatting snapshots wont work */
+    prettierPath: require.resolve("prettier-2"),
+
     transform: {
         /* transform Vue.js files with vue-jest */
         "^.+\\.vue$": require.resolve(`./dist/vue${vueMajor}-jest`),
