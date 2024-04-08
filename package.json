@@ -34,6 +34,7 @@
     "*.{js,json,md,css,scss,html,vue,ts}": "prettier --write",
     "*.{js,ts,vue}": "eslint --fix"
   },
+  "prettier": "@forsakringskassan/prettier-config",
   "release": {
     "extends": "@forsakringskassan/semantic-release-monorepo-config"
   },
@@ -47,6 +48,7 @@
     "@forsakringskassan/eslint-config-jest": "10.3.0",
     "@forsakringskassan/eslint-config-typescript": "10.3.0",
     "@forsakringskassan/eslint-config-vue": "10.3.3",
+    "@forsakringskassan/prettier-config": "2.0.1",
     "@html-validate/release-scripts": "6.3.1",
     "@types/jest": "29.5.12",
     "esbuild": "0.20.2",
