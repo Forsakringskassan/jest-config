@@ -53,7 +53,7 @@
     "husky": "9.0.11",
     "lerna": "6.6.2",
     "lint-staged": "15.2.2",
-    "npm-pkg-lint": "2.3.1",
+    "npm-pkg-lint": "2.4.0",
     "npm-run-all2": "6.1.2",
     "typescript": "5.4.3"
   },

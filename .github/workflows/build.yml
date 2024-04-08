@@ -28,5 +28,5 @@ jobs:
                       set -e
                       echo $pkg
                       cd $pkg
-                      npm pack && npm exec npm-pkg-lint
+                      npm pack && npm exec npm-pkg-lint -- --allow-dependency prettier
                   ); done
