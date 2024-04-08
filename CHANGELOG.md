@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 29.5.1 (2024-04-08)
+
+
+### Bug Fixes
+
+* **@forsakringskassan/jest-config-vue:** add missing prettier 2 dependency 380a722
+
 ## 29.5.0 (2024-04-07)
 
 
