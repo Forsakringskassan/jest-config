@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 29.5.2 (2024-04-09)
+
+
+### Bug Fixes
+
+* **@forsakringskassan/jest-config-vue:** another fix for missing prettier-2 ce1db92
+
 ## 29.5.1 (2024-04-08)
 
 
