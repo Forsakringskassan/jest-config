@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 29.5.3 (2024-05-31)
+
+
+### Dependency upgrades
+
+* **deps:** update dependency ts-jest to v29.1.3 4e7086d
+
 ## 29.5.2 (2024-04-09)
 
 
