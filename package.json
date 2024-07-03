@@ -51,7 +51,7 @@
     "@forsakringskassan/prettier-config": "2.1.0",
     "@html-validate/release-scripts": "6.5.0",
     "@types/jest": "29.5.12",
-    "esbuild": "0.21.5",
+    "esbuild": "0.22.0",
     "husky": "9.0.11",
     "lerna": "6.6.2",
     "lint-staged": "15.2.7",
