@@ -1,6 +1,6 @@
 {
   "name": "@forsakringskassan/jest-config-monorepo",
-  "version": "29.5.6",
+  "version": "29.5.7",
   "private": true,
   "description": "Shareable jest configurations",
   "keywords": [

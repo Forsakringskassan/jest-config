@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 29.5.7 (2024-07-19)
+
+
+### Dependency upgrades
+
+* **deps:** update dependency consolidate to v1.0.4 e65e1ea
+* **deps:** update dependency ts-jest to v29.2.1 eaed2fa
+* **deps:** update dependency ts-jest to v29.2.2 e6fc261
+
 ## 29.5.6 (2024-07-12)
 
 
