@@ -46,7 +46,7 @@
     "ts-jest": "29.2.4"
   },
   "devDependencies": {
-    "esbuild": "0.23.0",
+    "esbuild": "0.23.1",
     "internal-vue2-jest": "*",
     "internal-vue3-jest": "*",
     "prettier-2": "npm:prettier@2.8.8",
