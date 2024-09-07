@@ -51,6 +51,7 @@
     "@forsakringskassan/prettier-config": "2.1.1",
     "@html-validate/release-scripts": "6.5.3",
     "@types/jest": "29.5.12",
+    "@types/node": "20.16.5",
     "esbuild": "0.23.1",
     "husky": "9.1.5",
     "lerna": "6.6.2",
@@ -61,7 +62,7 @@
     "vue": "2.7.16"
   },
   "engines": {
-    "node": ">= 16.10",
+    "node": ">= 20",
     "npm": ">= 7"
   }
 }
