@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 29.6.0 (2024-09-13)
+
+
+### Features
+
+* **deps:** require nodejs 20 or later 013d60e
+
 ## 29.5.10 (2024-08-30)
 
 
