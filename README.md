@@ -1,7 +1,7 @@
 # Försäkringskassan shareable jest configurations
 
--   `@forsakringskassan/jest-config` - Preset for NPM libraries.
--   `@forsakringskassan/jest-config-vue` - Preset for Vue.js applications.
+- `@forsakringskassan/jest-config` - Preset for NPM libraries.
+- `@forsakringskassan/jest-config-vue` - Preset for Vue.js applications.
 
 ## Versions
 
