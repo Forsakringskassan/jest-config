@@ -55,7 +55,7 @@
     "esbuild": "0.24.0",
     "husky": "9.1.7",
     "lerna": "6.6.2",
-    "lint-staged": "15.2.10",
+    "lint-staged": "15.2.11",
     "npm-pkg-lint": "3.10.5",
     "npm-run-all2": "7.0.1",
     "typescript": "5.7.2",
