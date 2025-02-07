@@ -1,9 +1,3 @@
-<template>
-    <div>
-        <p>Hello {{ name }}!</p>
-    </div>
-</template>
-
 <script lang="ts">
 import Vue from "vue2";
 
@@ -17,3 +11,9 @@ export default Vue.extend({
     },
 });
 </script>
+
+<template>
+    <div>
+        <p>Hello {{ name }}!</p>
+    </div>
+</template>
