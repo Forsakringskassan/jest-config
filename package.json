@@ -51,7 +51,7 @@
     "@forsakringskassan/prettier-config": "3.0.0",
     "@html-validate/release-scripts": "6.7.5",
     "@types/jest": "29.5.14",
-    "@types/node": "20.17.16",
+    "@types/node": "20.17.17",
     "esbuild": "0.24.2",
     "husky": "9.1.7",
     "lerna": "8.1.9",
