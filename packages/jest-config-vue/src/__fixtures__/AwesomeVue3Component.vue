@@ -1,9 +1,3 @@
-<template>
-    <div>
-        <p>Hello {{ name }}!</p>
-    </div>
-</template>
-
 <script lang="ts">
 import { defineComponent } from "vue3";
 
@@ -17,3 +11,9 @@ export default defineComponent({
     },
 });
 </script>
+
+<template>
+    <div>
+        <p>Hello {{ name }}!</p>
+    </div>
+</template>
