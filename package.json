@@ -54,7 +54,7 @@
     "@types/node": "20.17.30",
     "esbuild": "0.25.2",
     "husky": "9.1.7",
-    "lerna": "8.2.0",
+    "lerna": "8.2.2",
     "lint-staged": "15.4.3",
     "npm-pkg-lint": "3.10.9",
     "npm-run-all2": "7.0.2",
