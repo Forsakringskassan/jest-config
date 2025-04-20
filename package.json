@@ -56,7 +56,7 @@
     "husky": "9.1.7",
     "lerna": "8.2.2",
     "lint-staged": "15.4.3",
-    "npm-pkg-lint": "3.10.9",
+    "npm-pkg-lint": "3.10.11",
     "npm-run-all2": "7.0.2",
     "typescript": "5.7.3",
     "vue": "2.7.16"
