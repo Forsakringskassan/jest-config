@@ -52,7 +52,7 @@
     "@html-validate/release-scripts": "6.8.0",
     "@types/jest": "29.5.14",
     "@types/node": "20.17.32",
-    "esbuild": "0.25.3",
+    "esbuild": "0.25.4",
     "husky": "9.1.7",
     "lerna": "8.2.2",
     "lint-staged": "15.5.1",
