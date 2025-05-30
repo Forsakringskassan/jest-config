@@ -48,7 +48,7 @@
     "@html-validate/release-scripts": "6.9.0",
     "@types/jest": "29.5.14",
     "@types/node": "20.17.50",
-    "esbuild": "0.25.4",
+    "esbuild": "0.25.5",
     "husky": "9.1.7",
     "lerna": "8.2.2",
     "npm-pkg-lint": "3.10.12",
