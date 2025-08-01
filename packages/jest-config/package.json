@@ -32,7 +32,7 @@
   "dependencies": {
     "jest": "29.7.0",
     "jest-junit": "16.0.0",
-    "jest-watch-typeahead": "2.2.2",
+    "jest-watch-typeahead": "3.0.1",
     "prettier-2": "npm:prettier@2.8.8",
     "ts-jest": "29.4.0"
   },
