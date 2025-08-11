@@ -19,9 +19,11 @@ Breaking changes can be introduced in minor versions.
 
 ### NPM library
 
+> ```bash
 > npm install --save-dev --save-exact @forsakringskassan/jest-config
 > npm pkg set scripts.test=jest
 > npm pkg set jest.preset=@forsakringskassan/jest-config
+> ```
 
 Or edit `package.json` manually:
 
@@ -52,16 +54,19 @@ This package carries all required dependencies itself.
 
 ### Vue
 
-```bash
-npm install --save-dev --save-exact @forsakringskassan/jest-config-vue
-npm pkg set scripts.test=jest
-npm pkg set jest.preset=@forsakringskassan/jest-config-vue
-```
+> ```bash
+> npm install --save-dev --save-exact @forsakringskassan/jest-config-vue
+> npm pkg set scripts.test=jest
+> npm pkg set jest.preset=@forsakringskassan/jest-config-vue
+> ```
 
 Or edit `package.json` manually:
 
 ```json
 {
+    "scripts": {
+        "test": "jest"
+    },
     "jest": {
         "preset": "@forsakringskassan/jest-config-vue"
     }
@@ -72,6 +77,7 @@ You should uninstall the following packages from your `package.json`:
 
 ```bash
 npm rm \
+  @vue/vue2-jest \
   @vue/vue2-jest \
   @vue/cli-plugin-unit-jest \
   babel-jest \

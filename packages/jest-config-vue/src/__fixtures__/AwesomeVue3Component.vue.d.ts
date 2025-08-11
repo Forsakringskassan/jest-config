@@ -1,3 +1,3 @@
-import { defineComponent } from "vue2";
+import { defineComponent } from "vue";
 
 export default ReturnType<typeof defineComponent>;

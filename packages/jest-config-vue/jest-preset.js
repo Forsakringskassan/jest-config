@@ -1,8 +1,3 @@
-const { version } = require("vue");
-
-const { INTERNAL_FORCE_VUE_VERSION } = process.env;
-const vueMajor = INTERNAL_FORCE_VUE_VERSION ?? version.split(".", 2)[0];
-
 module.exports = {
     /* put cache in working directory in case multiple simultaneous processes
      * runs the same tests (i.e. multiple jenkins jobs on the same node). */
@@ -13,7 +8,7 @@ module.exports = {
 
     transform: {
         /* transform Vue.js files with vue-jest */
-        "^.+\\.vue$": require.resolve(`./dist/vue${vueMajor}-jest`),
+        "^.+\\.vue$": require.resolve(`./dist/vue3-jest`),
 
         /* transform static files with jest-transform-stub */
         ".+\\.(css|styl|less|sass|scss|svg|png|jpg|ttf|woff|woff2)$":

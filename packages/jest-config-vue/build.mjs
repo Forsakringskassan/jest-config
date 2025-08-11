@@ -7,7 +7,6 @@ const result = await esbuild({
         "src/jest-transform-stub.js",
         "src/jest-watch-typeahead-filename.js",
         "src/jest-watch-typeahead-testname.js",
-        "src/vue2-jest.js",
         "src/vue3-jest.js",
     ],
     outdir: "dist",
