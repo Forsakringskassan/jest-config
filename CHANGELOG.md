@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 29.7.0 (2025-08-11)
+
+### Features
+
+* **deps:** update dependency @vue/test-utils to v2.4.6 14032b0
+
 ## 29.6.5 (2025-08-08)
 
 ### Bug Fixes
