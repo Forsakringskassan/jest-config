@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 29.8.0 (2025-08-11)
+
+### Features
+
+* **deps:** remove vue 2 support 6f6be91
+
 ## 29.7.0 (2025-08-11)
 
 ### Features
