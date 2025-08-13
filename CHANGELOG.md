@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 29.9.0 (2025-08-13)
+
+### Features
+
+* **@forsakringskassan/jest-config:** esm typescript entry (refs SB-4982) ae41b77
+
 ## 29.8.0 (2025-08-11)
 
 ### Features

@@ -1,6 +1,6 @@
 {
   "name": "internal-vue3-jest",
-  "version": "29.8.0",
+  "version": "29.9.0",
   "private": true,
   "keywords": [
     "jest"
