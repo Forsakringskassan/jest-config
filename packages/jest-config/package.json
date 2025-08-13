@@ -20,7 +20,8 @@
   },
   "files": [
     "jest.js",
-    "jest-preset.js"
+    "jest-preset.js",
+    "esm/jest-preset.js"
   ],
   "scripts": {
     "pretest": "node jest --version",
