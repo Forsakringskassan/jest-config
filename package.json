@@ -51,7 +51,7 @@
     "esbuild": "0.25.9",
     "husky": "9.1.7",
     "lerna": "8.2.3",
-    "npm-pkg-lint": "4.0.2",
+    "npm-pkg-lint": "4.0.3",
     "typescript": "5.9.2",
     "vue": "3.5.18"
   },
