@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## 30.0.0 (2025-09-22)
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** Jest has been updated to v30, see the Jest migration guide for
+their changes.
+* Vue support has been (temporary?) removed. If you need to run
+tests with Vue and Jest you need to stick to v29 of this package (which runs on
+older Jest v29). If `@vue/vue3-jest` eventually fixes Jest v30 support Vue
+support might be reintroduced here.
+
+### Features
+
+* **deps:** update dependency jest-watch-typeahead to v3 cf8ad23
+* **deps:** update jest to v30 1e52707
+* remove vue support 1e8e798
+
+### Bug Fixes
+
+* **deps:** update dependency ts-jest to v29.4.2 7295f11
+* **deps:** update dependency ts-jest to v29.4.3 5efed0a
+* **deps:** update dependency ts-jest to v29.4.4 a5ab528
+
 ## 29.9.0 (2025-08-13)
 
 ### Features
