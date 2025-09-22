@@ -1,7 +1,6 @@
 # Försäkringskassan shareable jest configurations
 
 - `@forsakringskassan/jest-config` - Preset for NPM libraries.
-- `@forsakringskassan/jest-config-vue` - Preset for Vue.js applications.
 
 ## Versions
 
@@ -12,6 +11,7 @@ This package does not follow semantic versioning, instead the major version indi
 | `@forsakringskassan/jest-config@27` | `jest@27` |
 | `@forsakringskassan/jest-config@28` | `jest@28` |
 | `@forsakringskassan/jest-config@29` | `jest@29` |
+| `@forsakringskassan/jest-config@30` | `jest@30` |
 
 Breaking changes can be introduced in minor versions.
 
@@ -54,8 +54,11 @@ This package carries all required dependencies itself.
 
 ### Vue
 
+Vue support has been removed (at least until `@vue/jest3-jest` supports Jest v30).
+If you still need Vue support you should use `@forsakringskassan/jest-config-vue@29` (which uses Jest v29).
+
 > ```bash
-> npm install --save-dev --save-exact @forsakringskassan/jest-config-vue
+> npm install --save-dev --save-exact @forsakringskassan/jest-config-vue@29
 > npm pkg set scripts.test=jest
 > npm pkg set jest.preset=@forsakringskassan/jest-config-vue
 > ```
