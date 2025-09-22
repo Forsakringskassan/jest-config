@@ -50,7 +50,7 @@
     "@types/node": "20.19.17",
     "esbuild": "0.25.10",
     "lerna": "8.2.4",
-    "npm-pkg-lint": "4.0.5",
+    "npm-pkg-lint": "4.1.0",
     "typescript": "5.9.2",
     "vue": "3.5.21"
   },
