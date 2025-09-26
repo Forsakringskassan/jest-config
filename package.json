@@ -36,7 +36,7 @@
     "prettier-2": "npm:prettier@2.8.8"
   },
   "devDependencies": {
-    "@forsakringskassan/commitlint-config": "3.0.8",
+    "@forsakringskassan/commitlint-config": "3.0.9",
     "@forsakringskassan/eslint-config": "13.0.4",
     "@forsakringskassan/eslint-config-cli": "13.0.4",
     "@forsakringskassan/eslint-config-jest": "13.0.1",
