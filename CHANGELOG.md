@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.0.1 (2025-10-03)
+
+### Bug Fixes
+
+* **deps:** update dependency jest to v30.2.0 72493bf
+
 ## 30.0.0 (2025-09-22)
 
 ### ⚠ BREAKING CHANGES
