@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const path = require("path");
 const { spawn } = require("child_process");
+const path = require("path");
 
 const pkgPath = path.dirname(require.resolve("jest/package.json"));
 const binary = path.join(pkgPath, "bin/jest.js");
