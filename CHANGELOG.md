@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.0.2 (2025-10-17)
+
+### Bug Fixes
+
+* **deps:** update dependency ts-jest to v29.4.5 cb256a5
+
 ## 30.0.1 (2025-10-03)
 
 ### Bug Fixes
