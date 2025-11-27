@@ -96,3 +96,41 @@ npm rm \
 ```
 
 This package carries all required dependencies itself.
+
+## Github Actions
+
+To use with Github actions:
+
+```yaml
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v5
+            - name: Use Node.js
+              uses: actions/setup-node@v6
+            - name: Install dependencies
+              run: npm ci
+            - name: Build
+              run: npm run build
+            - name: Jest
+              uses: Forsakringskassan/jest-config@main
+```
+
+`main` can also be replaced by a semantic versioned tag such as `v30.0.0`:
+
+```diff
+-uses: Forsakringskassan/jest-config@main
++uses: Forsakringskassan/jest-config@v30.0.0
+```
+
+This is recommended when using a tool such as Renovate to manage dependencies.
+
+**Options**:
+
+| Parameter    | Required | Default | Description                                                            |
+| ------------ | -------- | ------- | ---------------------------------------------------------------------- |
+| `build`      |          | `false` | Build project before running tests (using `npm run build`).            |
+| `build-docs` |          | `false` | Build documentation before running tests (using `npm run build:docs`). |
+| `check-name` |          | `Jest`  | Name of check to report test results to.                               |
