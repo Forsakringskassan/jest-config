@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.1.0 (2025-11-27)
+
+### Features
+
+* add github action to run jest e2c37ce
+
 ## 30.0.2 (2025-10-17)
 
 ### Bug Fixes
