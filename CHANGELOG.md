@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.1.1 (2025-12-05)
+
+### Bug Fixes
+
+* **deps:** update dependency ts-jest to v29.4.6 ddaafb9
+
 ## 30.1.0 (2025-11-27)
 
 ### Features
