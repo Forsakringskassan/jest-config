@@ -32,6 +32,7 @@
     "test": "node ./jest.js --config vue3.config.js vue3-example"
   },
   "dependencies": {
+    "@vue/vue3-jest": "29.2.6",
     "babel-jest": "29.7.0",
     "consolidate": "1.0.4",
     "jest": "29.7.0",
@@ -45,7 +46,6 @@
   },
   "devDependencies": {
     "esbuild": "0.25.10",
-    "internal-vue3-jest": "*",
     "prettier-2": "npm:prettier@2.8.8",
     "vue": "3.5.21"
   },

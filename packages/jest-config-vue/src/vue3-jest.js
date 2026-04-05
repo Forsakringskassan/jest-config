@@ -1,1 +1,1 @@
-module.exports = require("internal-vue3-jest");
+module.exports = require("@vue/vue3-jest");
