@@ -2,5 +2,6 @@
     "extends": [
         "local>forsakringskassan/renovate-config",
         ":pinAllExceptPeerDependencies"
-    ]
+    ],
+    "baseBranchPatterns": ["main", "release/29.x"]
 }
