@@ -1,8 +1,11 @@
 {
     "compilerOptions": {
+        /* ts-jest hardcodes deprecated moduleResolution node10 */
+        "ignoreDeprecations": "6.0",
+
         "rootDir": "src",
         "noEmit": true,
-        "target": "es5",
+        "target": "es6",
         "module": "esnext",
         "lib": ["es2020", "dom"],
         "strict": true,
