@@ -1,4 +1,4 @@
-import { mount } from "internal-vue3-jest/test-utils";
+import { mount } from "@vue/test-utils";
 import AwesomeVue3Component from "../__fixtures__/AwesomeVue3Component.vue";
 
 it("vue3 should mount component", () => {

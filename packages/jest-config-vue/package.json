@@ -45,6 +45,7 @@
     "ts-jest": "29.4.9"
   },
   "devDependencies": {
+    "@vue/test-utils": "2.4.6",
     "esbuild": "0.25.10",
     "prettier-2": "npm:prettier@2.8.8",
     "vue": "3.5.21"
