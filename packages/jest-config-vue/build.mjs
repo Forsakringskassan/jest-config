@@ -1,4 +1,4 @@
-import { build as esbuild, analyzeMetafile } from "esbuild";
+import { analyzeMetafile, build as esbuild } from "esbuild";
 
 const result = await esbuild({
     entryPoints: [
