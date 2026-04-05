@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 29.9.1 (2026-04-05)
+
+### Bug Fixes
+
+* **deps:** update dependency ts-jest to v29.4.2 7295f11
+* **deps:** update dependency ts-jest to v29.4.3 5efed0a
+* **deps:** update dependency ts-jest to v29.4.4 a5ab528
+* **deps:** update dependency ts-jest to v29.4.9 98a21cb
+
 ## 29.9.0 (2025-08-13)
 
 ### Features
