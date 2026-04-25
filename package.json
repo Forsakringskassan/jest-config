@@ -51,7 +51,7 @@
     "lerna": "9.0.7",
     "npm-pkg-lint": "4.6.5",
     "typescript": "5.9.3",
-    "vue": "3.5.32"
+    "vue": "3.5.33"
   },
   "engines": {
     "node": ">= 20",

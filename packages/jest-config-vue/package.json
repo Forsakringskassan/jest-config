@@ -48,7 +48,7 @@
     "@vue/test-utils": "2.4.6",
     "esbuild": "0.28.0",
     "prettier-2": "npm:prettier@2.8.8",
-    "vue": "3.5.32"
+    "vue": "3.5.33"
   },
   "peerDependencies": {
     "@babel/core": "^7",
