@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.2.0 (2026-04-26)
+
+### Features
+
+* **deps:** update dependency jest-junit to v17 cef1381
+
 ## 30.1.3 (2026-04-01)
 
 ### Bug Fixes
