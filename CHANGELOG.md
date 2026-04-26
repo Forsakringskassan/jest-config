@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 29.10.0 (2026-04-26)
+
+### Features
+
+* **deps:** update dependency jest-junit to v17 f6e3e3d
+
 ## 29.9.1 (2026-04-05)
 
 ### Bug Fixes
