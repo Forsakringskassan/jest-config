@@ -31,7 +31,7 @@
     "preset": "."
   },
   "dependencies": {
-    "jest": "30.4.0",
+    "jest": "30.4.1",
     "jest-junit": "17.0.0",
     "jest-watch-typeahead": "3.0.1",
     "prettier-2": "npm:prettier@2.8.8",
