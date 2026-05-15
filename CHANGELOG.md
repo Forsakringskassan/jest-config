@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.3.0 (2026-05-15)
+
+### Features
+
+* **deps:** require nodejs v22 or later 772c4a1
+
 ## 30.2.3 (2026-05-13)
 
 ### Bug Fixes
