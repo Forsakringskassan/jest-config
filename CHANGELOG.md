@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 29.11.0 (2026-05-15)
+
+### Features
+
+* **deps:** require nodejs v22 or later fa33305
+
 ## 29.10.0 (2026-04-26)
 
 ### Features
