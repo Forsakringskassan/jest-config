@@ -47,11 +47,12 @@
     "@html-validate/release-scripts": "7.2.3",
     "@types/jest": "29.5.14",
     "@types/node": "22.19.19",
+    "@vue/server-renderer": "3.5.35",
     "esbuild": "0.28.0",
     "lerna": "9.0.7",
     "npm-pkg-lint": "5.1.2",
     "typescript": "5.9.3",
-    "vue": "3.5.34"
+    "vue": "3.5.35"
   },
   "engines": {
     "node": "^22.16 || >= 24",
