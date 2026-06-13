@@ -48,7 +48,7 @@
     "@types/node": "22.19.20",
     "esbuild": "0.28.1",
     "lerna": "9.0.7",
-    "npm-pkg-lint": "5.1.5",
+    "npm-pkg-lint": "5.1.6",
     "typescript": "6.0.3"
   },
   "engines": {
