@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@vue/test-utils": "2.4.11",
-    "esbuild": "0.28.0",
+    "esbuild": "0.28.1",
     "prettier-2": "npm:prettier@2.8.8",
     "vue": "3.5.38"
   },
