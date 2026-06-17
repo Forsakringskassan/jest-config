@@ -47,7 +47,7 @@
     "@forsakringskassan/prettier-config": "3.7.1",
     "@html-validate/release-scripts": "7.2.4",
     "@types/jest": "29.5.14",
-    "@types/node": "22.19.21",
+    "@types/node": "24.13.2",
     "@vue/server-renderer": "3.5.38",
     "esbuild": "0.28.1",
     "lerna": "9.0.7",
