@@ -21,6 +21,7 @@
     "build": "npm run --workspaces --if-present build",
     "eslint": "eslint .",
     "eslint:fix": "eslint --fix .",
+    "prepare": "commitlint-config",
     "prettier:check": "prettier --check .",
     "prettier:write": "prettier --write .",
     "test": "npm run --workspaces --if-present test"
@@ -36,7 +37,7 @@
     "prettier-2": "npm:prettier@2.8.8"
   },
   "devDependencies": {
-    "@forsakringskassan/commitlint-config": "3.6.9",
+    "@forsakringskassan/commitlint-config": "4.0.0",
     "@forsakringskassan/eslint-config": "15.0.18",
     "@forsakringskassan/eslint-config-cli": "15.0.0",
     "@forsakringskassan/eslint-config-jest": "15.0.0",
@@ -57,5 +58,11 @@
   "engines": {
     "node": "^22.16 || >= 24",
     "npm": ">= 7"
+  },
+  "allowScripts": {
+    "esbuild": true,
+    "fsevents": false,
+    "nx": false,
+    "unrs-resolver": true
   }
 }
