@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 29.12.0 (2026-06-21)
+
+### Features
+
+* **deps:** support babel v8 377bd52
+
 ## 29.11.2 (2026-05-24)
 
 ### Bug Fixes
