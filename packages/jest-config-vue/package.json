@@ -51,7 +51,7 @@
     "vue": "3.5.38"
   },
   "peerDependencies": {
-    "@babel/core": "^7",
+    "@babel/core": "^7.0.0 || ^8.0.0",
     "@vue/test-utils": "^2.0.0",
     "vue": "^3.0.0"
   },
