@@ -51,7 +51,7 @@
     "@vue/server-renderer": "3.5.38",
     "esbuild": "0.28.1",
     "lerna": "9.0.7",
-    "npm-pkg-lint": "5.1.7",
+    "npm-pkg-lint": "5.1.8",
     "typescript": "5.9.3",
     "vue": "3.5.38"
   },
