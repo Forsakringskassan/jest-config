@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.4.0 (2026-06-25)
+
+### Features
+
+* **deps:** use prettier 3 instead of prettier 2 ba60421
+
 ## 30.3.2 (2026-05-25)
 
 ### Bug Fixes
