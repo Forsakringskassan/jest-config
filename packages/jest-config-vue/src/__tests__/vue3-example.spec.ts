@@ -1,3 +1,4 @@
+import { expect, it } from "@jest/globals";
 import { mount } from "@vue/test-utils";
 import AwesomeVue3Component from "../__fixtures__/AwesomeVue3Component.vue";
 
