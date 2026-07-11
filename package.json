@@ -43,7 +43,7 @@
     "@forsakringskassan/prettier-config": "3.7.6",
     "@html-validate/release-scripts": "7.3.1",
     "@types/jest": "30.0.0",
-    "@types/node": "22.20.0",
+    "@types/node": "22.20.1",
     "esbuild": "0.28.1",
     "lerna": "9.0.7",
     "npm-pkg-lint": "5.1.10",
