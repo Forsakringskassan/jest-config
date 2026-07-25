@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 29.12.1 (2026-07-25)
+
+### Bug Fixes
+
+* **deps:** update dependency ts-jest to v29.4.12 ac0f627
+
 ## 29.12.0 (2026-06-21)
 
 ### Features
