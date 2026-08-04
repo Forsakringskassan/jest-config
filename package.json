@@ -34,7 +34,7 @@
     "extends": "@forsakringskassan/semantic-release-monorepo-config"
   },
   "devDependencies": {
-    "@forsakringskassan/commitlint-config": "4.2.6",
+    "@forsakringskassan/commitlint-config": "4.2.7",
     "@forsakringskassan/eslint-config": "15.5.0",
     "@forsakringskassan/eslint-config-cli": "15.5.0",
     "@forsakringskassan/eslint-config-jest": "15.5.0",
