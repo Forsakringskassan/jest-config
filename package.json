@@ -48,12 +48,12 @@
     "@html-validate/release-scripts": "7.6.0",
     "@types/jest": "29.5.14",
     "@types/node": "22.20.1",
-    "@vue/server-renderer": "3.5.40",
+    "@vue/server-renderer": "3.5.41",
     "esbuild": "0.28.1",
     "lerna": "10.0.0",
     "npm-pkg-lint": "5.2.2",
     "typescript": "5.9.3",
-    "vue": "3.5.40"
+    "vue": "3.5.41"
   },
   "engines": {
     "node": "^22.16 || >= 24",
