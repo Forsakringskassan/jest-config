@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 30.4.4 (2026-09-23)
+
+### Bug Fixes
+
+* **deps:** update dependency jest to v30.5.2 98f6ab5
+
 ## 30.4.3 (2026-09-04)
 
 ### Bug Fixes
